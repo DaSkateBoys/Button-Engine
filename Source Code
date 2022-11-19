@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    
+    .upgrade {
+  background-color: #00FFFF; /* Cyan And 50% Sizing */
+  border: black;
+  color: black;
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+    }
+
+.blue {background-color: #008CBA;} /* Blue */
+.red {background-color: #f44336;} /* Red */ 
+.grey {background-color: #e7e7e7;} /* Grey */ 
+.black {background-color: #555555;} /* Black */
+.purple {background-color: #A020F0;} /* Purple */
+.redtext {background-color: #e7e7e7; color:#f44336} /* Red text */
+
+.shape1 {border-radius: 2px;}
+.shape2 {border-radius: 4px;}
+.shape3 {border-radius: 8px;}
+.shape4 {border-radius: 12px;}
+.shape5 {border-radius: 50%;}
+.shape6{ height:20px; width:80px;}
+.shape7{ height:60px; width:60px;}
+      
+      /* feel free to use these for all your websites! */
+  </style>
+</head>
